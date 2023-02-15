@@ -91,5 +91,5 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant 
 
 #Turbo ACC 加速 lede包已有
 #测速
-svn co https://github.com/kenzok8/small-package/trunk/luci-app-netspeedtest package/luci-app-netspeedtest
+#svn co https://github.com/kenzok8/small-package/trunk/luci-app-netspeedtest package/luci-app-netspeedtest
 ##############################################################################################
